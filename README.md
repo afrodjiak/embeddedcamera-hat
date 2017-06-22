@@ -15,8 +15,6 @@ The Raspberry Pi Zero drives this prototype. The Pi NoIR camera board is powered
 ### Known/Potential Issues
 
 1. The code python script does not include code for the slide switch nor the LED light. 
-2. Identify camera pinhole in middle box. Place gift set under the tree with a good view and near an outlet.
-3. Plug in the gift set, monitor and accessories.
 
 ### Bill of Materials
 

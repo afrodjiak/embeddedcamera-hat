@@ -16,7 +16,7 @@ The Raspberry Pi Zero drives this prototype. The Pi NoIR camera board is powered
 1. The code python script does not include code for the slide switch nor the LED light.
 2. Future versions will move wiring to a perf board and have an accompanied viewfinder for easier user configuration.
 
-### Bill of Materials
+### Bill of Materials (Ingredients)
 
 * Raspberry Pi Zero
 * Raspberry Pi NoIR Camera Board (8 megapixels)
